@@ -1,1 +1,2 @@
 Creat a program that will randomly provide six lucky numbers, from 1 to 49.
+Ask the user how many draws to make.
