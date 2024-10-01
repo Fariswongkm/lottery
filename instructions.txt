@@ -1,4 +1,4 @@
-Creat a program that will randomly provide six lucky numbers, from 1 to 49.
+Creat a program that will randomly provide six lucky numbers, from 1 to 50.
 Ask the user how many draws to make.
 Limit the draw to a maximum of 7 draws. if the user entered a draw number>7, ask the user to resubmit a number, which must be <=7
 Use try and except loop to avoid user input error
